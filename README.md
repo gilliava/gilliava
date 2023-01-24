@@ -1,4 +1,4 @@
--👋 Hello, my name is Vincent
+-👋 Hello, my name is Vincent <br />
 -👀 I’m interested in Game, Software and Web Design
 -🌱 I’m currently a junior at Vanderbilt University
 -💞️ I enjoy creating new ideas, telling new stories, and collaborating with others and help them create theirs!

@@ -2,7 +2,7 @@
 -👀 I’m interested in Game, Software and Web Design <br />
 -🌱 I’m currently a junior at Vanderbilt University <br />
 -💞️ I enjoy creating new ideas, telling new stories, and collaborating with others and help them create theirs! <br />
--📫 vincent.a.gilliam@vanderbilt.edu and/or my personal email: shadybrothers49@gmail.com <br />
+-📫 gilliamvincent001@gmail.com <br />
 <!--
 **gilliava/gilliava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

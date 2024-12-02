@@ -1,6 +1,6 @@
 -👋 Hello, my name is Vincent <br />
 -👀 I’m interested in Game, Software and Web Design <br />
--🌱 I’m currently a junior at Vanderbilt University <br />
+-🌱 I am a recent graduate from Vanderbilt University <br />
 -💞️ I enjoy creating new ideas, telling new stories, and collaborating with others and help them create theirs! <br />
 -📫 gilliamvincent001@gmail.com <br />
 <!--
